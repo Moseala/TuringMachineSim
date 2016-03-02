@@ -1,0 +1,6 @@
+%aabbcc%
+%abc%
+%aabcc%
+%abcc%
+%bbcc%
+%aacc%
